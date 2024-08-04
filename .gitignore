@@ -1,0 +1,5 @@
+*.docx
+*.tmp
+*/**/*.hidden.*
+.vagrant/
+temp/
