@@ -11,7 +11,7 @@ Do all the following from your favourite terminal application
 1. Change to `vagrant` directory
 
     ```bash
-    cd vagrant
+    cd devops-bootcamp/vagrant
     ```
 
 1. Start the virtual machines.
